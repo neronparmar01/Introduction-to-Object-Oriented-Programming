@@ -1,3 +1,5 @@
 # OOP244-Works
-- Neron
-- subject: OOP244ZAA
+- Hello my name is Neron Parmar.
+- Subject: OOP244ZAA
+- Email ID: nparmar22@myseneca.ca
+- Course: CPP
