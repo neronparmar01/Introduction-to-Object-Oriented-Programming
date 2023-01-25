@@ -1,0 +1,33 @@
+// Workshop 1 p2: tester program
+//
+// File  reflect.txt
+// Version 1.0
+// Date  winter 2023
+// Author Fardad Soleimanloo
+//
+//
+// Revision History
+// -----------------------------------------------------------
+// Name   Neron Parmar         Date  1/24/23          Reason
+/////////////////////////////////////////////////////////////////
+
+In this workshop, i learnt about the comma seperated files and how to get it executed in the perfect manner.
+For the part one, as the codes were already given, so the task was so simple. The task given in the LAB part 
+was just to divide the code into the files and submit. However, the most difficult part for me came was the DIY 
+part. In this part there were total 8 files to be created. Unfortunately, i had faced issues in my DIY part in the UI.cpp
+file which read the data of the file of student.csv. 
+-- if (fileopen("students.csv")) --> the corrected code
+In that i had made a mistake of a bracket and due to that i was not getting 
+the code complied and as the file was not being read, so it didn't gave me the output as it was needed.
+And at the end i figured out the i had forgot to keep the last closing bracket for the if condition. The another problem is faced 
+in the DIY was how to code further after,
+
+  Enter GPA query...
+  ? @2.2
+  Syntax error: ? [Op][value]<ENTER>
+  Op: [>,<,~,!]
+  value: GPA value
+
+gets executed. Then to further get the code executed i had taken the 
+     int outp(const char character, const double score, const struct GPA* STUD)
+function and in that at first took the for loop and and in that i had taken the if, else if and else conditions to get code execution done.
