@@ -1,0 +1,16 @@
+// Final Project
+// Point of Sale Application
+// Version 1.0
+// Date  2023-03-29
+// Author   Fardad Soleimanloo
+// Description
+// This program test the student implementation of the Point of
+// Sale Application
+//
+// File : reflect.txt
+// Name : Neron Parmar     Student ID : 171690217     Date : 4/16/23
+/////////////////////////////////////////////////////////////////
+
+
+
+In the milestone project, it was fun in learning on how to build an app as well as some difficulties that were faced im doing the tasks. The milestone was divided into mainly five parts. Later, the last fifth part was divided into five more parts. In the first milestone, namely MS1 we had made basic modules of the app each file name was PosApp.cpp and its header file and main.cpp. However, talking about the fifth part's first version that is MS5-1. In this the csv name postdataOrigin.csv was updated. In this we had to the user selected item to the list the SKU was found and if not then the bill should be printed with final entries. 
