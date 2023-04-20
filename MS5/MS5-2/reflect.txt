@@ -1,0 +1,14 @@
+// Final Project
+// Point of Sale Application
+// Version 1.0
+// Date  2023-03-29
+// Author   Fardad Soleimanloo
+// Description
+// This program test the student implementation of the Point of
+// Sale Application
+//
+// File : reflect.txt
+// Name : Neron Parmar    Student ID : 171690217    Date: 4/16/23
+/////////////////////////////////////////////////////////////////
+
+In the milestone project, it was fun in learning on how to build an app as well as some difficulties that were faced im doing the tasks. The milestone was divided into mainly five parts. Later, the last fifth part was divided into five more parts. In the milestone 5 verison 2 namely MS5-2 had a addition of the addItem in which we were supposed to make the app in such a way that it would be able to add the items to the list as well as it should be able to look after the item that is the item in good condition or not. If the item would not be in good condition then it will not add the item and will get the steps repeated but if the item woudl be in good condition then it will get the item added to the list.
