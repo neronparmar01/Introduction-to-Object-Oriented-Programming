@@ -1,0 +1,35 @@
+/////////////////////////////////////////////////////////
+// Workshop 7: Derived Classes & Functions in a Hierarchy
+// 
+// Date:	10/29/2022
+// Author:  Jitesh Arora
+// File:	reflect.txt
+// 
+// Last Updated 11/27/2022 by Jitesh Arora
+// 
+// Description:
+// Base class implementation for a Pet
+// 
+// Name : Neron Parmar
+// Student ID : 171690217
+//  
+////////////////////////////////////////////////////////
+
+
+
+In this workshop 7, we were given the three modules to complete. The three modules were named as 'Pet', 'Dog', and 'Fish'. However, we were also given one more module which was already completed and given named as main.cpp. Further, in the pet module we had two files to create .cpp and .h. Similarly, for other two files Dog and Fish also had the same files to create .cpp and .h. The .cpp files were for the c++ and .h were the header files for the modules. In this we had to maintain the data of the pet's health. There were two pets dog and fish of whose data is to be maintained. Moreover, we had to maintain the data of the costs of their health. However, the place i find difficulty was updating the health data using increament operator. 
+
+						void Dog::operator++(int num) {
+        if (isAlive()) {
+            double healthDelta = 0;
+            healthDelta += 0.15 * (getHugs() - 1);
+            healthDelta += 0.10 * (getFeeds() - 2);
+            healthDelta += 0.10 * (getGrooms() - 1);
+            healthDelta += 0.20 * (m_numWalks - 2);
+            applyHealthDelta(healthDelta);
+
+        }
+        Pet::operator++(num);
+
+
+In this it had if the pet is alive the the variable healthdelta gets update of how many hug given how many feed, hugs and grooms as well as how many walks were given to dog. Later, when all the data is calculated it will be passed to the applyHealthDelta function. Lastly the post-incereament operator gives the complete increamented data dog that is the child class of pet.
