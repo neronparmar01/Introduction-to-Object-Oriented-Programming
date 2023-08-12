@@ -1,0 +1,20 @@
+/***********************************************************************
+// Intro. to Object Oriented Programming
+// Workshop 3 Part 2
+// Version 1.0
+// Description
+// professor's tester program
+//
+// File : reflect.txt
+//
+// Revision History
+// -----------------------------------------------------------
+// Name  Neron Parmar     Date   6/4/23      Reason
+//
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+In this workshop 3, i was given two parts to code in. The first part was namely LAB and the second one was the DIY part. In the LAB part, i was facing difficulty in getting the output at the first i could do it as the header function was not working properly. However, after taking to much time to solve if found that let me change the tester file so i could come to know whats going wrong in my code. Although, trying this didn't worked. Thus, after that i tried with using of the breakpoints it also got me some error solved in the output. However at the last i took help of my brother and he had helped me out in line number 107 of Bill.cpp in getting the exact output as i was not getting the exact output in the header. 
+					if (m_items[m_itemsAdded - 1].tax() == 0.0)
+
+However, while submitting the LAB part even when i got the exact output in the visual studio code as i was shown in the case file still my submission was not made successful as the matrix told me completely different output that the on done in visual studio. Therefore, i had missed out my part one submission. However, i found the DIY part easy to code as it was the same as the the first part so.
