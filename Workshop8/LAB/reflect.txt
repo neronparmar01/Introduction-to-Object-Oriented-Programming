@@ -1,0 +1,17 @@
+/***********************************************************************
+// Intro. to Object Oriented Programming
+// Workshop 8
+// Version 1.0
+// Description
+// tester program
+//
+// File: reflect.txt
+//
+// Revision History
+// -----------------------------------------------------------
+// Name    Neron Parmar      Date    7/26/23        Reason
+//
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+In this Workshop 8, i was given task to work with the virtual functions and abstract base classes. In this workshop, i learnt on how to create a pure virtual functions, how an abstract base class is made and also learnt on why to make the destrcutor always virtual as it calls the latest data. However, the workshop was pretty interesting to do as it had bit tricky things in it. At first the creating of the first two modules were pretty easy. Yet, had struggled in making the Line module's cpp file and the Rectangle module's cpp file as i wasn't able get the output required so had to work on it. However, in the Rectangle i found the error was i was supppose to use the this keyword and i wasn't using it so that was fixed later and for the line.cpp file i wasn't able to get '=' sign printed in next line. Thus, in that i was suppose to get endl done which i had not done but later fixed it.
