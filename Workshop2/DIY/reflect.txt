@@ -1,0 +1,17 @@
+/***********************************************************************
+// Intro. to Object Oriented Programming
+// Workshop 2 Part 2
+// Version 1.0
+// Description
+// professor's tester program
+//
+// File : reflect.txt
+//
+// Revision History
+// -----------------------------------------------------------
+// Name   Neron Parmar      Date    5/27/23     Reason
+//
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+In this workshop 2, it was divided in two parts one was LAB and anothher was DIY. In the part one, which was LAB part, in this i was given task of getting salary report of the employees and it contained their salary and as well as their employee number. However, in this i was given 5 files namely Employee.cpp, Employee.h, File.cpp, File.h and salReport.cpp. However, i was also given a csv data file which was supposed to be read in the code. Apart from these files, there were two more files that were supposed to be used from last workshop. In LAB part, this had the File module and Employee module had been partially implemented. Now talking about the DIY part, there were File.cpp, File.h, Population.cpp, Population.h and popReport.cpp. Similarly, from the last workshop had to carry on the cstring module to this workshop as it includes the cstring library in it. Therefore, in this I had to get the report of the population of canada. However, in the first part i faced an issuse while submitting as i had not sorted the output display according to the employee number.
