@@ -1,0 +1,17 @@
+/***********************************************************************
+// Intro. to Object Oriented Programming
+// Workshop 4 Part 2
+// Version 1.0
+// Description
+// tester program
+//
+// File: reflect.txt
+//
+// Revision History
+// -----------------------------------------------------------
+// Name     Neron Parmar     Date   6/11/23      Reason
+//
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+Im this workshop4, i was given two things to do. The first one was the LAB and the another one was the DIY. In the LAB part mainly i was suppose to do the filling and emptying of the Canister. In that i was given few instructions on how to do that module and i was suppose to create one module named Canister. In that i had to create Canister.cpp and Canister.h file. However, while compiling and running, i was getting the output but there was one error being faced while emptying the milk part that is deallocating. Later, while i gone through my code then i found that at one place i have not initiated the deallocation properly and that is why i am getitng the error. Thus, after fixing that issue i was able to solve my error and submit my workshop. However, talking about the DIY part, in that i was suppose to make the labels and it was quite easier than of the LAB part as there was nothing much complications to do with. However, while complinig and running, i found that i was getting one line downwards in the output. Later, i realized that i was not suppose to give end line command. And the found where i gave the command and removed endl from that line and this got my issue fixed.
